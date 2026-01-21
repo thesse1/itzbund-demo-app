@@ -1,6 +1,6 @@
 ### ITZBund Demo App
 
-Dieses Repository wurde automatisch angelegt in Backstage über das Example Node.js Template:
+Dieses Repository wurde automatisch angelegt in Backstage über das [Example Node.js Template](http://app.backstage-demo-itzbund.de:3000/catalog/default/template/example-nodejs-template):
 
 <img width="412" height="343" alt="image" src="https://github.com/user-attachments/assets/a7ee6ff4-b6f1-4e41-8865-92bddcbd0595" />
 
@@ -19,6 +19,6 @@ spec:
   lifecycle: experimental
 ```
 
-Die Entity in Backstage befindet sich [hier](http://ec2-16-171-46-238.eu-north-1.compute.amazonaws.com:3000/catalog/default/component/itzbund-demo-app):
+Die Entity in Backstage befindet sich [hier](http://app.backstage-demo-itzbund.de:3000/catalog/default/component/itzbund-demo-app):
 
 <img width="2316" height="739" alt="image" src="https://github.com/user-attachments/assets/74bb7acd-7f87-45c0-b275-ad4cf643458c" />
